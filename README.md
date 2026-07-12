@@ -306,17 +306,7 @@ IPOForge follows a **B2B SaaS model**.
 
 ---
 
-# 👩‍💻 Developer
 
-**Drishti Raiswal**
-
-B.Tech Computer Science Engineering
-
-BML Munjal University
-
-SEBI Securities Market TechSprint 2026 Participant
-
----
 
 # 📄 License
 
